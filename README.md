@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is William</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is William</h1>
 <h3 align="center">I'm a Brazilian Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lwtz&label=Profile%20views&color=0eb47d&style=flat" alt="lwtz" /> </p>
@@ -19,15 +19,14 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-
-
-
-
-
 
 
 <!-- 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwtz&langs_count=3&theme=tokyonight&icon_color=6392DF)
+![William](https://github-readme-stats.vercel.app/api?username=lwtz&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs)
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
