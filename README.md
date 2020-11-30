@@ -2,9 +2,9 @@
 <h3 align="center">I'm a Brazilian Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lwtz&label=Profile%20views&color=0eb47d&style=flat" alt="lwtz" /> </p>
-
-![William](https://github-readme-stats.vercel.app/api?username=lwtz&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs)
 ![William](https://visitor-badge.glitch.me/badge?page_id=lwtz.lwtz)
+![William](https://github-readme-stats.vercel.app/api?username=lwtz&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs)
+
 
 ## 🔧 Technologies & Tools
 
