@@ -2,7 +2,7 @@
   
 
 <p align="center">
-<br><img src="https://raw.githubusercontent.com/lwtz/lwtz/master/hadder.gif" width="280px"><br><br>
+<br><img src="https://raw.githubusercontent.com/lwtz/lwtz/master/6tXM%20(1).gif" width="280px"><br><br>
 </p>
 <h3 align="right">Connect with me :</h3>
 <a href="https://www.linkedin.com/in/william-hertz/">
